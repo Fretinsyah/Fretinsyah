@@ -22,11 +22,12 @@ security analysis.
 - Web Exploitation (basic RCE, SQL Injection, IDOR, file upload issues)
 - Cryptography fundamentals and cipher implementations
 - Secure web application development
+- Web Developer
 
 ---
 
 ## 🛠 Skills
-- **Programming**: PHP, JavaScript, Java, C++
+- **Programming**: Python, PHP, JavaScript, Java, C++
 - **Web Technologies**: HTML, CSS
 - **Database**: MySQL
 - **Security**: OSINT techniques, basic web vulnerability analysis
