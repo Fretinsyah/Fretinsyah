@@ -1,36 +1,38 @@
 <h1 align="center">Fretinsyah E Manik</h1>
 <p align="center">
-Cyber Security Student | Junior Web Developer | OSINT | Web Exploitation | Cryptography
+Junior Web Developer | Cyber Security Student
 </p>
 
 ---
 
-## 👤 Profile
-I am a Cyber Security student with a strong interest in offensive security,
-particularly in OSINT, web exploitation, and cryptography. I also work as a
-Junior Web Developer at BPPTIK Komdigi, where I gain hands-on experience
-in building and maintaining web-based applications.
+## 👤 About Me
+I am a Junior Web Developer with a solid foundation in building web-based
+applications using modern web technologies. I am currently studying
+Cyber Security, with a growing interest in OSINT, basic web exploitation
+awareness, and cryptography concepts.
 
-I am passionate about understanding how systems work, identifying security
-weaknesses, and applying structured methodologies in both development and
-security analysis.
+I enjoy understanding how systems work from both development and security
+perspectives, and I continuously improve my skills through hands-on projects,
+training programs, and independent learning, including my experience at
+BPPTIK Komdigi.
 
 ---
 
 ## 🎯 Focus Areas
-- Open Source Intelligence (OSINT)
-- Web Exploitation (basic RCE, SQL Injection, IDOR, file upload issues)
-- Cryptography fundamentals and cipher implementations
-- Secure web application development
-- Web Developer
+- Web application development
+- Backend development and database integration
+- Cyber security fundamentals
+- OSINT basics and digital footprint analysis
+- Introductory web vulnerability awareness
+- Cryptography fundamentals
 
 ---
 
 ## 🛠 Skills
-- **Programming**: Python, PHP, JavaScript, Java, C++
+- **Programming**: PHP, JavaScript, Java, C++
 - **Web Technologies**: HTML, CSS
 - **Database**: MySQL
-- **Security**: OSINT techniques, basic web vulnerability analysis
+- **Security**: OSINT basics, web security awareness
 - **Tools**: Git, GitHub, XAMPP, VS Code, Linux
 
 ---
@@ -39,15 +41,23 @@ security analysis.
 - **ChillSpace** — Product catalog website for student living needs  
 - **Ordering Courier Services** — Web-based courier service ordering system  
 - **Cryptography Projects** — RSA, Caesar Cipher, and modular arithmetic implementations  
-- **Cyber Security Labs** — OSINT analysis and basic web exploitation practice
+- **Cyber Security Labs** — OSINT analysis and basic web security practice  
+
+---
+
+## 🎓 Training & Activities
+- Junior Web Developer training at BPPTIK Komdigi
+- Participated in a Capture The Flag (CTF) security assessment
+- Introductory OSINT and web security practices
+- Web application development and backend projects
 
 ---
 
 ## 🎓 Currently Learning
-- Advanced Web Exploitation
-- Network & Web Security
-- Cryptography and Secure Communication
 - Backend Development
+- Web Security Fundamentals
+- Cryptography and Secure Communication
+- Network & Web Security
 
 ---
 
