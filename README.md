@@ -1,6 +1,6 @@
 <h1 align="center">Fretinsyah E Manik</h1>
 <p align="center">
-Junior Web Developer | Cyber Security Student
+UI/UX | Web Developer | Cyber Security Student
 </p>
 
 ---
@@ -41,7 +41,9 @@ BPPTIK Komdigi.
 - **ChillSpace** — Product catalog website for student living needs  
 - **Ordering Courier Services** — Web-based courier service ordering system  
 - **Cryptography Projects** — RSA, Caesar Cipher, and modular arithmetic implementations  
-- **Cyber Security Labs** — OSINT analysis and basic web security practice  
+- **Cyber Security Labs** — OSINT analysis and basic web security practice
+- **Secure File Sharing System** — A Flask-based web application for secure file upload, encryption, sharing, and controlled access using authentication and cryptography.
+- 
 
 ---
 
