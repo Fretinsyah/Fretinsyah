@@ -28,16 +28,12 @@ I enjoy **OSINT, web vulnerability awareness, digital forensics, and cryptograph
 
 ### Programming
 - PHP | JavaScript | Python | Java | C++
-
 ### Web & Mobile
 - HTML | CSS | Android Studio
-
 ### Data & Database
 - MySQL | Data Analysis Fundamentals
-
 ### Cyber Security
 - OSINT Basics | Web Security Awareness | Cryptography Fundamentals
-
 ### Tools
 - Git | GitHub | XAMPP | VS Code | Linux
 
@@ -45,23 +41,12 @@ I enjoy **OSINT, web vulnerability awareness, digital forensics, and cryptograph
 
 ## 📂 Projects
 
-### 🔐 Secure File Sharing System
-A Flask-based web app for **secure file upload, encryption, and controlled access**.
-
-### 🚚 Ordering Courier Services
-Web-based **courier ordering system** for online delivery requests.
-
-### 🐾 Adopt Pet
-**Pet adoption platform** connecting adopters with available pets.
-
-### 🛡 Security Risk Management Audit
-Project focused on **auditing and managing system security risks**.
-
-### 🗄 DB Online Business
-**Database design and integration** for online business management.
-
-### 🏠 ChillSpace
-**Product catalog website** for student living needs.
+- 🔐 **Secure File Sharing System** — A Flask-based web app for secure file upload, encryption, and controlled access  
+- 🚚 **Ordering Courier Services** — Web-based courier ordering system for online delivery requests  
+- 🐾 **Adopt Pet** — A web platform for pet adoption management  
+- 🛡 **Security Risk Management Audit** — Project focused on auditing and managing system security risks  
+- 🗄 **DB Online Business** — Database design and integration for online business environments  
+- 🏠 **ChillSpace** — Product catalog website designed for student living needs  
 
 ---
 
