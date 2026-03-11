@@ -9,6 +9,7 @@ UI/UX | Web Developer | Mobile Developer | Cyber Security
 I am a Junior Web & Mobile Developer with a solid foundation in building cross-platform applications using modern technologies. Currently pursuing a degree in Cyber Security, I bridge the gap between development and security, with a growing interest in OSINT, web exploitation awareness, and cryptography.
 
 I enjoy deconstructing how systems work, from backend architecture to data patterns. My journey is fueled by hands-on projects and professional training, including my experience at BPPTIK Komdigi.
+
 ---
 
 ## 🎯 Focus Areas
@@ -21,8 +22,8 @@ I enjoy deconstructing how systems work, from backend architecture to data patte
 ---
 
 ## 🛠 Skills
-- **Programming**: PHP, JavaScript, Java, C++, Python
-- **Web & Mobile**: HTML, CSS, Android Studio
+-**Programming**: PHP, JavaScript, Java, C++, Python
+-**Web & Mobile**: HTML, CSS, Android Studio
 -**Data & Database**: Data Analysis fundamentals, MySQL
 -**Security**: OSINT basics, web security awareness, Cryptography
 -**Tools**: Git, GitHub, XAMPP, VS Code, Linux
