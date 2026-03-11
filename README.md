@@ -1,62 +1,96 @@
 <h1 align="center">Fretinsyah E Manik</h1>
+
 <p align="center">
-UI/UX | Web Developer | Mobile Developer | Cyber Security
+UI/UX Enthusiast • Web Developer • Mobile Developer • Cyber Security Student
 </p>
 
 ---
 
 ## 👤 About Me
-I am a Junior Web & Mobile Developer with a solid foundation in building cross-platform applications using modern technologies. Currently pursuing a degree in Cyber Security, I bridge the gap between development and security, with a growing interest in OSINT, web exploitation awareness, and cryptography.
 
-I enjoy deconstructing how systems work, from backend architecture to data patterns. My journey is fueled by hands-on projects and professional training, including my experience at BPPTIK Komdigi.
+I am a **Junior Web and Mobile Developer** with a strong foundation in building modern web and mobile applications. Currently, I am pursuing a degree in **Cyber Security**, exploring the intersection between **software development and digital security**.
+
+I enjoy **OSINT, web vulnerability awareness, digital forensics, and cryptography**, and I like understanding how systems work from **backend to data analysis**. My skills are honed through **hands-on projects and professional training**, including experience at **BPPTIK Komdigi**.
 
 ---
 
 ## 🎯 Focus Areas
--Full-stack Web Development: Building robust backend and frontend systems.
--Mobile Development: Crafting applications using Android Studio.
--Data Analysis: Extracting insights and identifying patterns from datasets.
--Cyber Security: OSINT, digital forensics, and web vulnerability awareness.
--Cryptography: Implementing secure communication protocols.
+
+- **Full-Stack Web Development** — Scalable frontend & backend systems  
+- **Mobile Development** — Android applications using Android Studio  
+- **Data Analysis** — Extracting insights and identifying patterns  
+- **Cyber Security** — OSINT, digital forensics, web vulnerability awareness  
+- **Cryptography** — Secure communication concepts  
 
 ---
 
 ## 🛠 Skills
--**Programming**: PHP, JavaScript, Java, C++, Python
--**Web & Mobile**: HTML, CSS, Android Studio
--**Data & Database**: Data Analysis fundamentals, MySQL
--**Security**: OSINT basics, web security awareness, Cryptography
--**Tools**: Git, GitHub, XAMPP, VS Code, Linux
+
+### Programming
+- PHP | JavaScript | Python | Java | C++
+
+### Web & Mobile
+- HTML | CSS | Android Studio
+
+### Data & Database
+- MySQL | Data Analysis Fundamentals
+
+### Cyber Security
+- OSINT Basics | Web Security Awareness | Cryptography Fundamentals
+
+### Tools
+- Git | GitHub | XAMPP | VS Code | Linux
 
 ---
 
 ## 📂 Projects
--**Secure File Sharing System**: A Flask-based web application for secure file upload, encryption, and controlled access.
--**Ordering Courier Services**: Web-based courier service ordering system.
--**Adopt Pet**: A web application platform for pet adoption management.
--**Security Risk Management Audit**: Project focused on auditing and managing security risks.
--**DB Online Business**: Database design and integration for online business environments.
--**ChillSpace**: Product catalog website for student living needs.
+
+### 🔐 Secure File Sharing System
+A Flask-based web app for **secure file upload, encryption, and controlled access**.
+
+### 🚚 Ordering Courier Services
+Web-based **courier ordering system** for online delivery requests.
+
+### 🐾 Adopt Pet
+**Pet adoption platform** connecting adopters with available pets.
+
+### 🛡 Security Risk Management Audit
+Project focused on **auditing and managing system security risks**.
+
+### 🗄 DB Online Business
+**Database design and integration** for online business management.
+
+### 🏠 ChillSpace
+**Product catalog website** for student living needs.
 
 ---
 
 ## 🎓 Training & Activities
--Junior Web Developer training at BPPTIK Komdigi.
--Security Risk Management & Audit — Conducting assessments and security auditing practices.
--Android Development — Building mobile applications using Android Studio.
--Data Analysis — Identifying patterns and insights from database systems (DB Online Business).
--Participated in Capture The Flag (CTF) security assessments.
+
+- **Junior Web Developer Training — BPPTIK Komdigi**  
+- **Security Risk Management & Audit** — Conducting security assessments  
+- **Android Development** — Mobile app projects using Android Studio  
+- **Data Analysis Practice** — Identifying patterns & insights from databases  
+- **Capture The Flag (CTF)** — Cybersecurity challenge participation  
 
 ---
 
-## 🎓 Currently Learning
--Advanced Backend Development & API Security.
--Mobile App Security & Optimization in Android Studio.
--Data Visualization & Statistical Analysis.
--Network Security & Pentesting Fundamentals.
+## 📚 Currently Learning
+
+- Advanced Backend Development & API Security  
+- Mobile App Security & Optimization  
+- Data Visualization & Statistical Analysis  
+- Network Security & Pentesting Fundamentals  
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/Fretinsyah
-- Email: fretinsyahemanik@gmail.com
+
+- **GitHub**: [https://github.com/Fretinsyah](https://github.com/Fretinsyah)  
+- **Email**: fretinsyahemanik@gmail.com  
+
+---
+
+## 📊 GitHub Stats
+
+![Fretinsyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fretinsyah&show_icons=true&theme=radical)
