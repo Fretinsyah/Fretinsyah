@@ -1,7 +1,7 @@
 <h1 align="center">Fretinsyah E Manik</h1>
 
 <p align="center">
-UI/UX Enthusiast • Web Developer • Mobile Developer • Cyber Security Student
+UI/UX Enthusiast | Web Developer | Mobile Developer | Cyber Security Student
 </p>
 
 ---
