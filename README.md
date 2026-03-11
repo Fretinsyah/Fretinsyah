@@ -1,65 +1,58 @@
 <h1 align="center">Fretinsyah E Manik</h1>
 <p align="center">
-UI/UX | Web Developer | Cyber Security Student
+UI/UX | Web Developer | Mobile Developer | Cyber Security
 </p>
 
 ---
 
 ## 👤 About Me
-I am a Junior Web Developer with a solid foundation in building web-based
-applications using modern web technologies. I am currently studying
-Cyber Security, with a growing interest in OSINT, basic web exploitation
-awareness, and cryptography concepts.
+I am a Junior Web & Mobile Developer with a solid foundation in building cross-platform applications using modern technologies. Currently pursuing a degree in Cyber Security, I bridge the gap between development and security, with a growing interest in OSINT, web exploitation awareness, and cryptography.
 
-I enjoy understanding how systems work from both development and security
-perspectives, and I continuously improve my skills through hands-on projects,
-training programs, and independent learning, including my experience at
-BPPTIK Komdigi.
-
+I enjoy deconstructing how systems work, from backend architecture to data patterns. My journey is fueled by hands-on projects and professional training, including my experience at BPPTIK Komdigi.
 ---
 
 ## 🎯 Focus Areas
-- Web application development
-- Backend development and database integration
-- Cyber security fundamentals
-- OSINT basics and digital footprint analysis
-- Introductory web vulnerability awareness
-- Cryptography fundamentals
+-Full-stack Web Development: Building robust backend and frontend systems.
+-Mobile Development: Crafting applications using Android Studio.
+-Data Analysis: Extracting insights and identifying patterns from datasets.
+-Cyber Security: OSINT, digital forensics, and web vulnerability awareness.
+-Cryptography: Implementing secure communication protocols.
 
 ---
 
 ## 🛠 Skills
-- **Programming**: PHP, JavaScript, Java, C++
-- **Web Technologies**: HTML, CSS
-- **Database**: MySQL
-- **Security**: OSINT basics, web security awareness
-- **Tools**: Git, GitHub, XAMPP, VS Code, Linux
+- **Programming**: PHP, JavaScript, Java, C++, Python
+- **Web & Mobile**: HTML, CSS, Android Studio
+-**Data & Database**: Data Analysis fundamentals, MySQL
+-**Security**: OSINT basics, web security awareness, Cryptography
+-**Tools**: Git, GitHub, XAMPP, VS Code, Linux
 
 ---
 
 ## 📂 Projects
-- **ChillSpace** — Product catalog website for student living needs  
-- **Ordering Courier Services** — Web-based courier service ordering system  
-- **Cryptography Projects** — RSA, Caesar Cipher, and modular arithmetic implementations  
-- **Cyber Security Labs** — OSINT analysis and basic web security practice
-- **Secure File Sharing System** — A Flask-based web application for secure file upload, encryption, sharing, and controlled access using authentication and cryptography.
-- 
+-**Secure File Sharing System**: A Flask-based web application for secure file upload, encryption, and controlled access.
+-**Ordering Courier Services**: Web-based courier service ordering system.
+-**Adopt Pet**: A web application platform for pet adoption management.
+-**Security Risk Management Audit**: Project focused on auditing and managing security risks.
+-**DB Online Business**: Database design and integration for online business environments.
+-**ChillSpace**: Product catalog website for student living needs.
 
 ---
 
 ## 🎓 Training & Activities
-- Junior Web Developer training at BPPTIK Komdigi
-- Participated in a Capture The Flag (CTF) security assessment
-- Introductory OSINT and web security practices
-- Web application development and backend projects
+-Junior Web Developer training at BPPTIK Komdigi.
+-Security Risk Management & Audit — Conducting assessments and security auditing practices.
+-Android Development — Building mobile applications using Android Studio.
+-Data Analysis — Identifying patterns and insights from database systems (DB Online Business).
+-Participated in Capture The Flag (CTF) security assessments.
 
 ---
 
 ## 🎓 Currently Learning
-- Backend Development
-- Web Security Fundamentals
-- Cryptography and Secure Communication
-- Network & Web Security
+-Advanced Backend Development & API Security.
+-Mobile App Security & Optimization in Android Studio.
+-Data Visualization & Statistical Analysis.
+-Network Security & Pentesting Fundamentals.
 
 ---
 
