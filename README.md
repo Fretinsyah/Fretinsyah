@@ -75,7 +75,3 @@ I enjoy **OSINT, web vulnerability awareness, digital forensics, and cryptograph
 - **Email**: fretinsyahemanik@gmail.com  
 
 ---
-
-## 📊 GitHub Stats
-
-![Fretinsyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fretinsyah&show_icons=true&theme=radical)
