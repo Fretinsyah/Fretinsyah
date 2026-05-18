@@ -1,4 +1,4 @@
-<h1 align="center">Fretinsyah E Manik</h1>
+<h1 align="center">Fretinsyah Ester Manik</h1>
 
 <p align="center">
 UI/UX Enthusiast | Web Developer | Mobile Developer | Cyber Security Student
