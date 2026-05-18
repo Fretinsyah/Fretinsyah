@@ -8,9 +8,9 @@ UI/UX Enthusiast | Web Developer | Mobile Developer | Cyber Security Student
 
 ## 👤 About Me
 
-I am a **Junior Web and Mobile Developer** with a strong foundation in building modern web and mobile applications. Currently, I am pursuing a degree in **Cyber Security**, exploring the intersection between **software development and digital security**.
-
-I enjoy **OSINT, web vulnerability awareness, digital forensics, and cryptography**, and I like understanding how systems work from **backend to data analysis**. My skills are honed through **hands-on projects and professional training**, including experience at **BPPTIK Komdigi**.
+Cyber Security-focused Informatics undergraduate with hands-on experience in Full Stack Web Development, OSINT,
+cryptography, digital forensics, and web exploitation. Skilled in building secure web and mobile applications through academic
+and independent projects with strong analytical and problem-solving abilities.
 
 ---
 
